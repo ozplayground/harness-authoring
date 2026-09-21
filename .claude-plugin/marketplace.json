@@ -1,0 +1,17 @@
+{
+  "name": "harness-authoring",
+  "owner": {
+    "name": "ozplayground"
+  },
+  "metadata": {
+    "description": "Claude Code 스킬과 서브에이전트 정의를 쓰고 검사하는 방법론 플러그인"
+  },
+  "plugins": [
+    {
+      "name": "harness-authoring",
+      "source": "./",
+      "description": "Claude Code 스킬과 서브에이전트 정의를 쓰고 검사하는 방법론",
+      "version": "0.1.0"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "harness-authoring",
+  "version": "0.1.0",
+  "description": "Claude Code 스킬과 서브에이전트 정의를 쓰고 검사하는 방법론. 스킬에는 지시만, 에이전트 정의에는 배선과 역할 계약만 쓴다.",
+  "author": {
+    "name": "ozplayground"
+  },
+  "license": "MIT",
+  "keywords": [
+    "skill-authoring",
+    "agent-authoring",
+    "harness",
+    "audit",
+    "claude-code"
+  ]
+}
